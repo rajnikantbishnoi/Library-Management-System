@@ -1,7 +1,11 @@
-# Library-Management-System
-Library-Management-System
+
+Library-Management-System 
+
+
 This is project purely base on Object Oriented programming in C++.
+
 This project is just the sample working of Librabry Management system performs the tasks given below:
+
 --> Takes username and password by user if not registered and store in file base.
 --> Check for username and respective password from the file base, if user is about to log in.
 --> Add a student to the library membership.
